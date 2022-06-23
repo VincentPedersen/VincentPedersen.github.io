@@ -1,0 +1,23 @@
+{
+  "name": "ratingapp",
+  "version": "1.0.0",
+  "description": "Website for rating fast food places",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentPedersen/VincentPedersen.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentPedersen/VincentPedersen.github.io/issues"
+  },
+  "homepage": "https://github.com/VincentPedersen/VincentPedersen.github.io#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
