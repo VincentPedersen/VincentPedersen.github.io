@@ -1,0 +1,7 @@
+{
+    "name": "Rating app",
+    "short_name": "Rating App",
+    "start_url": ".",
+    "background_color": "#6dcdb1",
+    "theme_color": "#009578"
+  }
